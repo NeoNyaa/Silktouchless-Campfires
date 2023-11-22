@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 4,
+		"description": "Makes campfires drop themselves when mined."
+	}
+}
